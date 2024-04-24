@@ -77,6 +77,8 @@ NOTE : VARCHAR(50) berfungsi seperti string, untuk memberi batas 50 kata dalam t
 #### 12. Jadikan nim sebagai PRIMARY KEY!
 #### 13. Jadikan kolom email sebagai UNIQUE KEY
 
+#Terima Kasih
+
    ![Alt text](konci8.png)
 
 ### Penjelasan:
