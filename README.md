@@ -8,7 +8,7 @@
 | **Kelas** | TI.23.A5 |
 | **Mata Kuliah** | Basis data |
 
-# Latihan membuat database, MySQL menggunakan cli
+# Latihan membuat database, MySQL menggunakan client
 
 ## Tugas Praktikum 
 
